@@ -13,7 +13,6 @@ Nous prévoyons d'organiser en début d'été une session autour de reactJS mais
 Vous avez des idées, des envies particulières, n'hésitez pas à nous faire vos proposition par PR sur [le document suivant](sessions/MontpellierJS6.md)
 
 
-
 ### Archives
 
-* [Compte renndu des évènements précédents](archives/ARCHIVE.md)
+* [Compte rendu des évènements précédents](archives/ARCHIVE.md)
