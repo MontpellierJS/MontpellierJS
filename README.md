@@ -8,9 +8,11 @@ C'est ici où l'on parle et discute des sujets en cours et à venir.
 
 ### Prochaine session 
 
-Nous prévoyons d'organiser en début d'été une session autour de reactJS. Vous avez des idées, des envies particulières, n'hésitez pas à nous faire vos proposition par PR sur [le document suivant](sessions/MontpellierJS6.md)
+Nous prévoyons d'organiser en début d'été une session autour de reactJS mais aussi d'autres sujets.
 
-En attendant merci de nous aider à trouver une date : http://doodle.com/mi4g4rni4ruw6ut2
+Vous avez des idées, des envies particulières, n'hésitez pas à nous faire vos proposition par PR sur [le document suivant](sessions/MontpellierJS6.md)
+
+
 
 ### Archives
 
