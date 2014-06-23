@@ -5,6 +5,7 @@ C'est ici où l'on parle et discute des sujets en cours et à venir.
 
 * [Twitter](https://twitter.com/MontpellierJS)
 * [github](https://github.com/MontpellierJS/MontpellierJS)
+* Irc #montpellierjs sur [freenode](http://chat.freenode.net)
 
 ### Prochaine session 
 
