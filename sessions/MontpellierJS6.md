@@ -12,6 +12,7 @@ Pour proposer faites une PR sur ce document.
 #### Sujets proposés :
 
 - Introduction à [React](http://facebook.github.io/react/) par @n1k0 + atelier
+- [Redis](http://facebook.github.io/react/), le complement idéal a node. par @franckernewein (talk et/ou atelier fonction du nombre d'interessé)
 
 #### Sujets à aborder
 
