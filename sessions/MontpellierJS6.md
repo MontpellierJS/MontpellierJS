@@ -13,6 +13,7 @@ Pour proposer faites une PR sur ce document.
 
 - Introduction à [React](http://facebook.github.io/react/) par @n1k0 + atelier
 - [Redis](http://facebook.github.io/react/), le complement idéal a node. par @franckernewein. [Case study: TicTacToe](https://github.com/FranckErnewein/mtpjs-node-redis)
+- [RxJS](https://github.com/Reactive-Extensions/RxJS) + [socket.io](https://github.com/Automattic/socket.io) : le cocktail délirant par @JeromeAvoustin
 
 #### Sujets à aborder
 
