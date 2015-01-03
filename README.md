@@ -9,8 +9,7 @@ C'est ici où l'on parle et discute des sujets en cours et à venir.
 
 ### Prochaine session 
 
-Une session est prévus pour le Mercredi 12/11.
-Au menu, Reactjs, Node+Redis
+Une session est prévus pour le Mardi 13/01/2015 à partir de 19h au coworking.
 
 Vous avez des idées, des envies particulières, n'hésitez pas à nous faire vos proposition par PR sur [le document suivant](sessions/MontpellierJS7.md)
 
