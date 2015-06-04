@@ -9,7 +9,7 @@ C'est ici où l'on parle et discute des sujets en cours et à venir.
 
 ### Prochaine session 
 
-Une session est prévue pour le mois de mars
+Une session est prévue pour le 4 Juin
 
 Vous avez des idées, des envies particulières, n'hésitez pas à nous faire vos proposition par PR sur [le document suivant](sessions/MontpellierJS8.md)
 
